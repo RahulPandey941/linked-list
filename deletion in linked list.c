@@ -7,7 +7,7 @@ struct node
     struct node * next;
 };
 
-// function to print linked list :
+// function to display linked list :
 void displayLL(struct node * ptr){
     while (ptr != NULL)
     {
